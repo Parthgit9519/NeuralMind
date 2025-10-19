@@ -445,7 +445,7 @@ const AIToolLanding = () => {
                 <a href="#" className="text-gray-400 hover:text-blue-400 transition-colors">
                   <FaLinkedin className="text-xl" />
                 </a>
-                <a href="#" className="text-gray-400 hover:text-blue-400 transition-colors">
+                <a href="https://github.com/Parthgit9519" className="text-gray-400 hover:text-blue-400 transition-colors">
                   <FaGithub className="text-xl" />
                 </a>
                 <a href="#" className="text-gray-400 hover:text-blue-400 transition-colors">
